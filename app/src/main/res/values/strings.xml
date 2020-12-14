@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CA2Android</string>
+    <string name="please_enter_name">Please enter name</string>
+    <string name="enter_weight">Enter Weight</string>
+    <string name="active_client">Active Client</string>
+    <string name="view">View</string>
+    <string name="add">Add</string>
+</resources>
